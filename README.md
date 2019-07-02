@@ -1,4 +1,4 @@
-Generate Texture For Rainy Day Screen Space Postprocess
+Generate Texture For Rainy Day Postprocess Shader
 ===
 
 ***Postprocess shader is not included in this repository***
